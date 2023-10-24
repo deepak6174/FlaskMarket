@@ -1,2 +1,37 @@
 # FlaskMarket
-Flask app to buy and sell listed products
+
+Flask project contains a working example of a Flask project with features:
+
+- A platform to sell and buy products.
+- It has a register page.
+- A login page powered by **flask-login**.
+- User can see the products list when logged in.
+- Automatically redirected to the login page when accessing the product list.
+- Auto-login after registration
+
+![Libray Management App - Flask](https://github.com/hamzaavvan/library-management-system/blob/master/ss/ss2.JPG?raw=true)
+
+
+
+
+## Installation
+
+To run the app flawlessly, satisfy the requirements
+```bash
+$ pip install -r requirements.txt
+```
+
+## Set Environment Variables
+```bash
+$ export FLASK_APP=app.py
+$ export FLASk_ENV=development
+```
+
+## Start Server
+```bash
+$ flask run
+```
+
+Or run this command 
+```bash
+$ python -m flask run
