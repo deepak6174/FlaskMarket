@@ -9,7 +9,7 @@ Flask project contains a working example of a Flask project with features:
 - Automatically redirected to the login page when accessing the product list.
 - Auto-login after registration
 
-![Libray Management App - Flask](https://github.com/hamzaavvan/library-management-system/blob/master/ss/ss2.JPG?raw=true)
+![Libray Management App - Flask](https://github.com/deepak6174/FlaskMarket/blob/main/Flask_app_image.png)
 
 
 
