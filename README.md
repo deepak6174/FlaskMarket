@@ -1,6 +1,6 @@
 # FlaskMarket
 
-Flask project contains a working example of a Flask project with features:
+This project contains a working example of a market application with features:
 
 - A platform to sell and buy products.
 - It has a register page.
